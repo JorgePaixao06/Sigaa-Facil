@@ -1,0 +1,20 @@
+{
+  "name": "sigaa-facil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgePaixa06/Sigaa-Facil.git"
+  },
+  "homepage": "https://JorgePaixa06.github.io/Sigaa-Facil",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
